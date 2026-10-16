@@ -7,5 +7,5 @@
 
 - [OmniAudience | Make Data Your Best Performing Channel](https://om-javheri.github.io/omniaudience2/): An omni-channel audience intelligence platform helping brands and enterprises discover, plan, activate, and measure audience segments across multiple channels using behavioral and first-party data.
 - [Capabilities | OmniAudience](https://om-javheri.github.io/omniaudience2/capabilities/): Connect your first-party data sources and behavioral signals to discover high-value customer segments, forecast multi-channel reach, plan media budgets,…
-- [Platform | OmniAudience](https://om-javheri.github.io/omniaudience2/platform/): An omni-channel audience intelligence platform helping brands and enterprises discover, plan, activate, and measure audience segments across multiple…
+- [Platform | OmniAudience](https://om-javheri.github.io/omniaudience2/platform/): Discover and analyze audiences using behavioral, interest, channel, and value filters with real-time insights.
 - [Resources | OmniAudience](https://om-javheri.github.io/omniaudience2/resources/): Explore technical documentation, developer guides, and industry insights for marketers.
